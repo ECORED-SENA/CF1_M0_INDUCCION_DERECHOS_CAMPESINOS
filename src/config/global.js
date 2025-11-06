@@ -165,6 +165,33 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Cx7JeL8VLtI',
     },
+    {
+      tema: 'Contenidos de los contextos',
+      referencia:
+        'SENA.(2025). <em> Agroecología para transformar el territorio | Con Bladimir Rodríguez</em>. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Cx7JeL8VLtI',
+    },
+    {
+      tema: 'Contenidos de los contextos',
+      referencia:
+        'SENA. (2025). Dra. Jaskiran Kaur. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=eQfZ3UR5NI8&t=1s',
+    },
+    {
+      tema: 'Contenidos de los contextos',
+      referencia:
+        'SENA. (2025). Sofia Monsalve Caracterización. [Archivo de video] Youtube',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=ST5IV5dfHDQ&t=1s',
+    },
+    {
+      tema: 'Contenidos de los contextos',
+      referencia: 'SENA. (2025). Peter Rosset. [Archivo de video] Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Utx4NK8UuZA',
+    },
   ],
   glosario: [
     {
