@@ -15,7 +15,7 @@
             figure
               img(src="@/assets/curso/intro/1.png", data-aos="zoom-in")
           .col-lg-9
-            p(data-aos="fade-left") En el componente formativo Fomento de los derechos del campesinado se propicia la comprensión integral de los derechos del campesino, reconociéndolo como sujeto político y actor esencial en el desarrollo rural. A partir del estudio de las características sociales, económicas, culturales, políticas, productivas y ambientales del territorio, los aprendices fortalecen su capacidad de análisis para identificar problemáticas, potencialidades y dinámicas propias del contexto rural al que pertenecen.
+            p(data-aos="fade-left") En el componente formativo Fomento de los derechos del campesinado, se propicia la comprensión integral de los derechos del campesino, reconociéndolo como sujeto político y actor esencial en el desarrollo rural. A partir del estudio de las características sociales, económicas, culturales, políticas, productivas y ambientales del territorio, los aprendices fortalecen su capacidad de análisis para identificar problemáticas, potencialidades y dinámicas propias del contexto rural al que pertenecen.
 
             .bg-color-1.mb-5(data-aos="fade-up")
               .row.justify-content-center.align-items-center

@@ -59,14 +59,14 @@
             .row.px-5.align-items-center
               .col-lg-7.mb-4.mb-md-0.order-lg-2
                 h4 Vereda un territorio campesino
-                p La unidad territorial más pequeña del área rural, conformada por un conjunto de viviendas, fincas y familias que comparten un mismo espacio geográfico y social, también cumple una función organizativa y cultural, pues es el lugar donde se establecen formas de cooperación, participación comunitaria y mantenimiento de las tradiciones campesinas (DNP, 2014)
+                p La unidad territorial más pequeña del área rural, conformada por un conjunto de viviendas, fincas y familias que comparten un mismo espacio geográfico y social, también cumple una función organizativa y cultural, pues es el lugar donde se establecen formas de cooperación, participación comunitaria y mantenimiento de las tradiciones campesinas (DNP, 2014).
               .col-lg-5.order-lg-1
                 figure
                   img(src='@/assets/curso/tema1/6.png', alt='Texto que describa la imagen')
 
         h3.bg-color-10.d-inline.text-white.p-2.tarjeta Campesino y enfoque diferencial
 
-        p.mb-5.mt-5 Comprender al campesinado desde un enfoque diferencial implica reconocerlo como una población con características sociales, culturales y económicas particulares, históricamente invisibilizadas. Esta mirada permite valorar sus formas de vida, sus saberes, y su vínculo profundo con la tierra como base para garantizar sus derechos y fortalecer su papel en la sociedad. (SENA, 2024)
+        p.mb-5.mt-5 Comprender al campesinado desde un enfoque diferencial implica reconocerlo como una población con características sociales, culturales y económicas particulares, históricamente invisibilizadas. Esta mirada permite valorar sus formas de vida, sus saberes y su vínculo profundo con la tierra como base para garantizar sus derechos y fortalecer su papel en la sociedad. (SENA, 2024).
 
         .bg-full-width.bg-fondo-slider
           .p-4.p-md-5
