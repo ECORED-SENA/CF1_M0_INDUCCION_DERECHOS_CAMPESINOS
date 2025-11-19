@@ -51,7 +51,7 @@
             .row.px-5.align-items-center
               .col-lg-7.mb-4.mb-md-0.order-lg-2
                 h4 Comunidad campesino
-                p La comunidad campesina se caracteriza por ser un grupo personas que viven y trabajan en el campo, dedicadas principalmente a actividades agrícolas, pecuarias y de aprovechamiento de los recursos naturales. Estas comunidades se caracterizan por tener una identidad cultural propia, una forma colectiva de organización y una relación directa con la tierra, que es su principal medio de sustento.  (FAO,  2018)
+                p La comunidad campesina se caracteriza por ser un grupo DE personas que viven y trabajan en el campo, dedicadas principalmente a actividades agrícolas, pecuarias y de aprovechamiento de los recursos naturales. Estas comunidades se caracterizan por tener una identidad cultural propia, una forma colectiva de organización y una relación directa con la tierra, que es su principal medio de sustento.  (FAO,  2018)
               .col-lg-5.order-lg-1
                 figure
                   img(src='@/assets/curso/tema1/5.png', alt='Texto que describa la imagen')

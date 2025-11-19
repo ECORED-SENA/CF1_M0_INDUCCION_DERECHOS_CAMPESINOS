@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Fomento de los derechos del campesino',
     Description:
-      'En este componente abordaremos aspectos a partir de la persona y la sociedad teniendo en cuenta la definición y las características de los campesinos, donde se conocerán los derechos fundamentales de los campesinos, los derechos  de especial protección y enfoque diferencial; partiendo a través de los aspectos legales, vinculando  diversos métodos y herramientas de autodiagnóstico para la adquisición de información de los diversos contextos del campesinado y su territorio para el análisis de las problemáticas que se identifiquen; reconociendo así también las entidades que propician la defensa de los derechos del campesinado. ',
+      'En este componente abordaremos aspectos a partir de la persona y la sociedad, teniendo en cuenta la definición y las características de los campesinos, donde se conocerán los derechos fundamentales de los campesinos, los derechos  de especial protección y enfoque diferencial; partiendo a través de los aspectos legales, vinculando  diversos métodos y herramientas de autodiagnóstico para la adquisición de información de los diversos contextos del campesinado y su territorio para el análisis de las problemáticas que se identifiquen; reconociendo así también las entidades que propician la defensa de los derechos del campesinado. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -212,7 +212,7 @@ export default {
     {
       termino: 'Entidades gubernamentales',
       significado:
-        'organización de estado creada para cumplir funciones públicas, administrar los recursos que beneficien a la sociedad, su propósito principal es organizar y regular los servicios en áreas como salud, educación, seguridad, justicia, transporte, cultura y otros sectores.',
+        'organización de estado creada para cumplir funciones públicas, administrar los recursos que beneficien a la sociedad; su propósito principal es organizar y regular los servicios en áreas como salud, educación, seguridad, justicia, transporte, cultura y otros sectores.',
     },
     {
       termino: 'Entidades no gubernamentales',
@@ -227,12 +227,12 @@ export default {
     {
       termino: 'Persona',
       significado:
-        'se relaciona con los conceptos hombre o mujer reconociéndose como seres humanos pertenecientes a una sociedad.',
+        'se relaciona con los conceptos hombre o mujer, reconociéndose como seres humanos pertenecientes a una sociedad.',
     },
     {
       termino: 'Sociedad',
       significado:
-        'las personas son seres sociales que constituyen como grupo propiciando estilos de vida en común como lo es su cultura, su historia y sus costumbres.',
+        'las personas son seres sociales que constituyen como grupo, propiciando estilos de vida en común, como lo es su cultura, su historia y sus costumbres.',
     },
     {
       termino: 'Técnicas',
@@ -322,14 +322,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Lider del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermudez Jaimes',
+          cargo: 'Responsable de línea de producción Huila',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -337,9 +337,17 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yuly Soley Alarcón Pérez',
+          cargo: 'Experto Temático',
+          centro:
+            'Centro de desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
+        },
+
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora Instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -347,34 +355,76 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yerson Fabian Zarate Saavedra',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete Lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete Lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
     {
-      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      titulo: 'GESTORES DE REPOSITORIO',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Raúl Mosquera Serrano',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
